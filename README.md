@@ -1,4 +1,9 @@
-## Docker Cheatsheet
+# Docker Cheatsheet 🐳
+
+Eğer bu konteyner gemisinin kullanım kılavuzunu yararlı bulduysan, lütfen bir yıldız ⭐️ ekleyerek yön ver! Her bir yıldız, bu geminin daha fazla denizcinin keşfetmesine yardımcı olur.
+
+Her bir yıldız, sanki deniz haritasında yeni bir adanın keşfedilmesine benzer. Eğer sen de bu gemiye bir yıldız eklersen, bu adanın daha fazla denizcinin gözünden kaçmamasını sağlamış olursun. Bu sayede, Docker okyanusunda daha fazla maceraya atılanların bu kılavuzu bulmalarına yardımcı olabiliriz.
+
 
 ### Basic Docker Commands
 
